@@ -1,0 +1,17 @@
+{
+  "name": "Daily Dose India News Studio",
+  "short_name": "DDI News",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d18",
+  "theme_color": "#080d18",
+  "description": "Hindi automatic news broadcast studio",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
